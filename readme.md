@@ -91,31 +91,33 @@
 			
 
 
-## Arrastes 
+### Arrastes 
 
-* Analisis Matematico II:
+* #### Analisis Matematico II:
 	- Estado de la Asignatura : 
-			Tres trabajos de Control 
+		+ Tres trabajos de Control 
 
-			1er Tc (ya lo hice en estos dias , 30 de oct)
+			-  1er Tc (ya lo hice en estos dias , 30 de oct)
 				Nota-> 5 pt
 
-			2do Tc (ya lo hice el 3 de nov)	
+			- 2do Tc (ya lo hice el 3 de nov)	
 				Nota -> No me han dado nota,  no se todavia (hice casi todo pero no se el resultado )
 
 
-			3er Tc (no lo he hecho) 
+			- 3er Tc (no lo he hecho) 
 				Esto se debe hacer para los dias 20-pico de nov 
 
- 			Nota Final -> (promedio de las 3 tc , requisito -> tener aprobada las 3 para poder aprobar la asignatura ) 
+ 		+ Nota Final -> (promedio de las 3 tc , requisito -> tener aprobada las 3 para poder aprobar la asignatura ) 
 
 
 				
 	
 
-Mundiales: 
-	Discreta I:
-		Esto se va a hacer para finales de diciembre 
+### Mundiales: 
+
+* Discreta I:
+
+	- Esto se va a hacer para finales de diciembre 
 		Todavia no se sabe como van a hacer con eso (si es una prueba , un proyecto , no se sabe  ) 
 	
 	
