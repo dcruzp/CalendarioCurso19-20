@@ -24,15 +24,16 @@
 		+ #####  Evaluaciones:
 			- 1er TC - (lo hice antes de la covid-19)
 			    * Un examen escrito
-				*  Nota -> 2 pt (suspenso)
+				*  Nota -> 2 pts (suspenso)
 
 			- 2do Tc 
 				* Un proyecto (ya lo entrege )
-				* Nota -> 5 pt 
+				* Nota -> 5 pts 
 
 			- 3er Tc
 				* Un Proyecto (ya lo entrege) 
-				* Nota -> sin definir (pero debo tener 5 ) 
+				* Nota -> 5 pts  
+		+ ##### Nota Final : 3pts 
 
 * #### 2-Sistemas Operativos
 
@@ -48,9 +49,7 @@
 				* Era en Pareja 
 				* Nota -> 8.5 pt en base a 10 pt (esto no lo han dado oficial pero ya me dijeron y es asi ) 
 
-			- 3er proyecto (por orientar)
-				* Es en pareja 
-				* Deben de orientarlo esta semana o la proxima 
+		+ ###### Nota Final -> por definir 
    
 
 * #### 3-Estructura de Datos y Algoritmos 
@@ -67,13 +66,13 @@
 
  
 * #### 4-Sistemas de base de Datos 
-	- Una evaluacion (es la prueba final) 
+	- Una evaluacion (es la prueba final)
 
 		+ #### Evaluaciones:
 			- Prueba final  - (se va a hacer el 16 de nov)
 			    * Sinopsis de como va a ser la prueba:
 			        - el dia seleccionado se va a mandar un examen por el canal de telegram , voy a tener 4 horas para responderlo y enviar la respuesta 
-
+		+ #### Nota Final -> 4 pts
 
 * #### 5-DiscretaII
 	- Una evaluacion Final
@@ -84,7 +83,9 @@
 
 			    - 	Son 4 problemas para resolver y demostrar correctitud de la respuesta , complejidad temporal y hacer todas las demostraciones que implican la resolucion de los problemas
 
-			* Entrega : el dia 15 de nov antes de la 12 de la noche  
+			* Entrega : el dia 17 de nov antes de la 12 de la noche
+
+		+ ##### Nota Final -> por definir   
 			
 
 ### Arrastes
@@ -100,11 +101,11 @@
 
 			* 2do Tc (ya lo hice el 3 de nov)	
 				
-                - Nota -> No me han dado nota,  no se todavia (hice casi todo pero no se el resultado )
+                - Nota -> 3 pts 
 
 
 			* 3er Tc (no lo he hecho) 
-				- Esto se debe hacer para los dias 20-pico de nov 
+				- Ya lo hice (esperando la nota )
 
  		+ Nota Final -> (promedio de las 3 tc , requisito -> tener aprobada las 3 para poder aprobar la asignatura ) 
 
@@ -116,5 +117,5 @@
 
 * Discreta I:
 
-	- Esto se va a hacer para finales de diciembre 
+	- Esto se va a hacer para finales de diciembre
 		Todavia no se sabe como van a hacer con eso (si es una prueba , un proyecto , no se sabe )
