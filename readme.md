@@ -1,15 +1,12 @@
 # Estado del Curso 2019-2020
 
-## Daniel de la Cruz Prieto 
+## Daniel de la Cruz Prieto
   
-
-
 ## Asignaturas:
 
 #### Primer Semestre
 
 * (Ya esto termino ) me quedo el mundial  de discreta  
-
 
 #### Segundo Semestre
 
@@ -19,7 +16,7 @@
 * 4-Sistema de Base de Datos
 * 5-DiscretaII
 
-#### Estados de las Asignaturas 
+#### Estados de las Asignaturas
 	
 * #### 1-Probabilidades
     - Tres Evaluaciones (no tiene prueba final)
@@ -90,22 +87,24 @@
 			* Entrega : el dia 15 de nov antes de la 12 de la noche  
 			
 
-
-### Arrastes 
+### Arrastes
 
 * #### Analisis Matematico II:
-	- Estado de la Asignatura : 
+
+    - Estado de la Asignatura :
+
 		+ Tres trabajos de Control 
 
-			-  1er Tc (ya lo hice en estos dias , 30 de oct)
-				Nota-> 5 pt
+			*  1er Tc (ya lo hice en estos dias , 30 de oct)
+				- Nota-> 5 pt
 
-			- 2do Tc (ya lo hice el 3 de nov)	
-				Nota -> No me han dado nota,  no se todavia (hice casi todo pero no se el resultado )
+			* 2do Tc (ya lo hice el 3 de nov)	
+				
+                - Nota -> No me han dado nota,  no se todavia (hice casi todo pero no se el resultado )
 
 
-			- 3er Tc (no lo he hecho) 
-				Esto se debe hacer para los dias 20-pico de nov 
+			* 3er Tc (no lo he hecho) 
+				- Esto se debe hacer para los dias 20-pico de nov 
 
  		+ Nota Final -> (promedio de las 3 tc , requisito -> tener aprobada las 3 para poder aprobar la asignatura ) 
 
@@ -118,8 +117,4 @@
 * Discreta I:
 
 	- Esto se va a hacer para finales de diciembre 
-		Todavia no se sabe como van a hacer con eso (si es una prueba , un proyecto , no se sabe  ) 
-	
-	
-
- 
+		Todavia no se sabe como van a hacer con eso (si es una prueba , un proyecto , no se sabe )
