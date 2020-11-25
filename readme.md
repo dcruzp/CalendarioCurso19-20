@@ -33,6 +33,7 @@
 			- 3er Tc
 				* Un Proyecto (ya lo entrege) 
 				* Nota -> 5 pts  
+
 		+ ##### Nota Final : 3pts 
 
 * #### 2-Sistemas Operativos
@@ -104,8 +105,9 @@
                 - Nota -> 3 pts 
 
 
-			* 3er Tc (no lo he hecho) 
-				- Ya lo hice (esperando la nota )
+			* 3er Tc (ya lo hice 24 de noviembre)  
+				
+				-  Nota  (esperando la nota )
 
  		+ Nota Final -> (promedio de las 3 tc , requisito -> tener aprobada las 3 para poder aprobar la asignatura ) 
 
@@ -118,4 +120,4 @@
 * Discreta I:
 
 	- Esto se va a hacer para finales de diciembre
-		Todavia no se sabe como van a hacer con eso (si es una prueba , un proyecto , no se sabe )
+		todavia no se sabe como van a hacer con eso (si es una prueba , un proyecto , no se sabe )
