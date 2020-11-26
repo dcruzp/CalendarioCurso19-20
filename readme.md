@@ -13,7 +13,7 @@
 * 1-Probabilidades (Ya termine  , Nota Final -> 3 pts)
 * 2-Sistemas Operativos (Ya lo termine , Nota Final -> 5 pts)
 * 3-Estructura de Datos y Algoritmos (todavia , esta semana me mandan el proyecto final )
-* 4-Sistema de Base de Datos (Ya termine , Nota Final 5 pts )
+* 4-Sistema de Base de Datos (Ya termine , Nota Final 4 pts )
 * 5-DiscretaII (Ya me evalue , fue el proyecto que envie , no estan las notas todavia )
 
 #### Estados de las Asignaturas
@@ -31,10 +31,10 @@
 				* Nota -> 5 pts
 
 			- 3er Tc
-				* Un Proyecto (ya lo entrege) 
+				* Un Proyecto (ya lo entrege)
 				* Nota -> 5 pts  
 
-		+ ##### Nota Final : 3pts 
+		+ ##### Nota Final : 3pts
 
 * #### 2-Sistemas Operativos
 
@@ -70,16 +70,16 @@
 * #### 4-Sistemas de base de Datos 
 	- Una evaluacion (es la prueba final)
 
-		+ #### Evaluaciones:
+		+ ##### Evaluaciones:
 			- Prueba final  - (se va a hacer el 16 de nov)
 			    * Sinopsis de como va a ser la prueba:
 			        - el dia seleccionado se va a mandar un examen por el canal de telegram , voy a tener 4 horas para responderlo y enviar la respuesta
-		+ #### Nota Final -> 4 pt
+		+ ##### Nota Final -> 4 pt
 
 * #### 5-DiscretaII
 	- Una evaluacion Final
 
-        + #### Evaluaciones  	
+        + ##### Evaluaciones
 		    * Proyecto Final (ya esta orientado , actualmente trabajando en el)
 			* Sinopsis
 
@@ -87,7 +87,7 @@
 
 			* Entrega : el dia 17 de nov antes de la 12 de la noche
 
-		+ ##### Nota Final -> todavia no la han dado 
+		+ ##### Nota Final -> todavia no la han dado
 			
 
 ### Arrastes
